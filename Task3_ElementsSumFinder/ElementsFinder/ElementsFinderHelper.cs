@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Task3ElementsFinder;
-public class ElementsFinder
+﻿namespace ElementsFinder;
+public class ElementsFinderHelper
 {
     public void FindElementsForSum(List<uint> list, ulong sum, out int start, out int end)
     {

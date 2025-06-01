@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Task3ElementsFinder\Task3ElementsFinder.csproj" />
+    <ProjectReference Include="..\ElementsFinder\ElementsFinder.csproj" />
   </ItemGroup>
 
 </Project>
